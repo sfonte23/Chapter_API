@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\viewmodels\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:viewmodels\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\contexts\\chaptercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:contexts\\chaptercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|c:\\users\\lucas\\downloads\\api_uc14\\er1\\chapter\\chapter\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF4A032-D78B-4333-B84D-F5F0316921EB}|Chapter.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:11:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "Repositories\\LivroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:01:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChapterContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Contexts\\ChapterContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\ChapterContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Contexts\\ChapterContext.cs",
+              "RelativeToolTip": "Contexts\\ChapterContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:59:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:31.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:31.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\ViewModels\\LoginViewModels.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModels.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\ViewModels\\LoginViewModels.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:31.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\API_UC14\\ER1\\Chapter\\Chapter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAnwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:31.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
